@@ -1,0 +1,445 @@
+In December 2019, the outbreak of pneumonia caused by a novel coronavirus, severe acute 
+respiratory syndrome coronavirus 2 (SARS-CoV-2), has led to a serious pandemic in China and other 
+countries worldwide. So far, more than 460,000 confirmed cases were diagnosed in nearly 190 
+countries, causing globally over 20,000 deaths. Currently, the epidemic is still spreading and there is 
+no effective means to prevent the infection. Vaccines are proved to be the most effective and 
+economical means to prevent and control infectious diseases. Several countries, companies, and 
+institutions announced their programs and progress on vaccine development against the virus. While 
+most of the vaccines are under design and preparation, there are some that have entered efficacy 
+evaluation in animals and initial clinical trials. This review mainly focused on the progress and our 
+prospects on field of vaccine development against SARS-CoV-2.
+
+18 years ago, in 2002, the world was astonished by the appearance of Severe Acute Respiratory 
+Syndrome (SARS), supported by a zoonotic coronavirus, called SARS-CoV, from the Guangdong 
+Province of southern China. After about 10 years, in 2012, another similar coronavirus triggered the 
+Middle East Respiratory Syndrome (MERS-CoV) in Saudi Arabia. Both caused severe pneumonia killing 
+774 and 858 people with 8700 cases of confirmed infection for the former, and 2494 for the latter, 
+causing significant economic losses. 8 years later, despite the MERS outbreak remaining in certain 
+parts of the world, at the end of 2019, a new zoonotic coronavirus (SARS-CoV-2) and responsible of 
+coronavirus Disease (COVID-19), arose from Wuhan, Hubei Province, China. It spread rapidly and to 
+date has killed 3,242 persons with more than 81,000 cases of infection in China and causing over 
+126,000 global cases and 5,414 deaths in 166 other countries around the world, especially Italy. SARS-CoV-2 
+would seem to have come from a bat, but the intermediate reservoir continues to be unknown. 
+Nonetheless, as for SARS-CoV and MERS CoV, the Spillover effect linked to animal-human 
+promiscuity, human activities including deforestation, illegal bush-trafficking and bushmeat, cannot 
+be excluded. Recently, however, evidence of inter-human only transmission of SARS-CoV-2 has been 
+accumulated and thus, the outbreak seems to be spreading by human-to-human transmission 
+throughout a large part of the world. Herein we will provide with an update on the main features of 
+COVID-19 and suggest possible solutions how to halt the expansion of this novel pandemic.
+
+The diagnosis of COVID-19 is based on the positive of etiological test. The current etiological test of 
+COVID-19 cost long time, and have high false negative rate, may resulting delay the measures of 
+disease treatment and prevention. We suggested that COVID-19 should be diagnosed as 3 types: 
+suspected case, clinical diagnosed case, and definite diagnosed case.
+
+Ongoing outbreak of pneumonia caused by novel coronavirus (2019-nCoV) began in December 2019 
+in Wuhan, China, and the number of new patients continues to increase. Even though it began to 
+spread to many other parts of the world, such as other Asian countries, the Americas, Europe, and the 
+Middle East, the impact of secondary outbreaks caused by exported cases outside China remains 
+unclear. We conducted simulations to estimate the impact of potential secondary outbreaks in a 
+community outside China. Simulations using stochastic SEIR model were conducted, assuming one 
+patient was imported to a community. Among 45 possible scenarios we prepared, the worst scenario 
+resulted in the total number of persons recovered or removed to be 997 (95% CrI 990-1000) at day 
+100 and a maximum number of symptomatic infectious patients per day of 335 (95% CrI 232-478). 
+Calculated mean basic reproductive number (R0) was 6.5 (Interquartile range, IQR 5.6-7.2). However, 
+better case scenarios with different parameters led to no secondary cases. Altering parameters, 
+especially time to hospital visit. could change the impact of a secondary outbreak. With these multiple 
+scenarios with different parameters, healthcare professionals might be able to better prepare for this 
+viral infection.
+
+The ongoing outbreak of the novel coronavirus disease (COVID-19) that occurred in China is rapidly 
+spreading globally. China's bond and strict containment measures have been proved (in practice) to 
+significantly reduce the spread of the epidemic. This was obtained through the use of emergency 
+control measures in the epidemic areas and the integration of resources from multiple systems, 
+including business, community, technology, education, and transportation, across the country. In 
+order to better understand how China has managed to reduce the public health and economic 
+impacts of the COVID-19 epidemic, this editorial systematically reviews the specific measures for 
+infection prevention and control of the disease. The best practices for COVID-19 eradication in China 
+provide evidence-based strategies that could be replicated in other countries.
+
+Coronavirus (COVID-19) is a humanitarian emergency, which started in Wuhan in China in early 
+December 2019, brought into the notice of the authorities in late December, early January 2020, and, 
+after investigation, was declared as an emergency in the third week of January 2020. The WHO 
+declared this as Public Health Emergency of International Concern (PHEIC) on 31th of January 2020, 
+and finally a pandemic on 11th March 2020. As of March 24th, 2020, the virus has caused a casualty of 
+over 16,600 people worldwide with more than 380,000 people confirmed as infected by it, of which 
+more than 10,000 cases are serious. Mainly based on Chinese newspapers, social media and other 
+digital platform data, this paper analyzes the timeline of the key actions taken by the government and 
+people over three months in five different phases. It found that although there was an initial delay in 
+responding, a unique combination of strong governance, strict regulation, strong community 
+vigilance and citizen participation, and wise use of big data and digital technologies, were some of the 
+key factors in China's efforts to combat this virus. Being inviable and non-measurable (unlike radioactive exposure), 
+appropriate and timely information is very important to form the basic 
+foundation of mitigation and curative measures. Infodemic, as it is termed by WHO, is a key word, 
+where different stakeholder's participation, along with stricter regulation, is required to reduce the 
+impact of fake news in this information age and social media. Although different countries will need 
+different approaches, focusing on its humanitarian nature and addressing infodemic issues are the 
+two critical factors for future global mitigation efforts.
+
+The impact of communicable diseases (infectious diseases) on human health is obvious. The sudden 
+outbreak of COVID-19 (Corona Virus Disease 2019) has made people realise the threat of 
+communicable diseases to mankind. As a city of many migrants, Zhuhai Special Economic Zone 
+experienced great challenges brought about by the COVID-19 epidemic. Experience has been 
+acquired from all aspects of this. A highly reactive, multifunctional and efficient emergency 
+management system should be established, and the significance of information communication 
+should be fully understood for the future.
+
+The Public Health Emergency of International Concern declared the widespread outbreak of SARS-CoV-2 
+as a global pandemic emergency, which has resulted in 1,773,086 confirmed cases including 
+111,652 human deaths, as on 13 April 2020, as reported to World Health Organization. As of now, 
+there are no vaccines or antiviral drugs declared to be officially useful against the infection. 
+Saikosaponin is a group of oleanane derivatives reported in Chinese medicinal plants and are 
+described for their anti-viral, anti-tumor, anti-inflammatory, anticonvulsant, antinephritis and 
+hepatoprotective activities. They have also been known to have anti-coronaviral property by 
+interfering the early stage of viral replication including absorption and penetration of the virus. Thus, 
+the present study was undertaken to screen and evaluate the potency of different Saikosaponins 
+against different sets of SARS-CoV-2 binding protein via computational molecular docking 
+simulations. Docking was carried out on a Glide module of Schrodinger Maestro 2018-1 MM Share 
+Version on NSP15 (PDB ID: 6W01) and Prefusion 2019-nCoV spike glycoprotein (PDB ID: 6VSB) from 
+SARS-CoV-2. From the binding energy and interaction studies, the Saikosaponins U and V showed the 
+best affinity towards both the proteins suggesting them to be future research molecule as they mark 
+the desire interaction with NSP15, which is responsible for replication of RNA and also with 2019-
+nCoV spike glycoprotein which manage the connection with ACE2. [Formula: see text] Communicated 
+by Ramaswamy H. Sarma.
+
+Italy is fighting against one of the worst medical emergency since the 1918 Spanish Flu. Pressure on 
+the hospitals is tremendous. As for official data on March 14th: 8372 admitted in hospitals, 1518 in 
+intensive care units, 1441 deaths (175 more than the day before). Unfortunately, hospitals are not 
+prepared: even where a plan for massive influx of patients is present, it usually focuses on sudden 
+onset disaster trauma victims (the most probable case scenario), and it has not been tested, validated, 
+or propagated to the staff. Despite this, the All Hazards Approach for management of major incidents 
+and disasters is still valid and the "4S" theory (staff, stuff, structure, systems) for surge capacity can be 
+guidance to respond to this disaster.
+
+A growing body of literature on the 2019 novel coronavirus (SARS-CoV-2) is becoming available, but a 
+synthesis of available data has not been conducted. We performed a scoping review of currently 
+available clinical, epidemiological, laboratory, and chest imaging data related to the SARS-CoV-2 
+infection. We searched MEDLINE, Cochrane CENTRAL, EMBASE, Scopus and LILACS from 01 January 
+2019 to 24 February 2020. Study selection, data extraction and risk of bias assessment were 
+performed by two independent reviewers. Qualitative synthesis and meta-analysis were conducted 
+using the clinical and laboratory data, and random-effects models were applied to estimate pooled 
+results. A total of 61 studies were included (59,254 patients). The most common disease-related 
+symptoms were fever (82%, 95% confidence interval (CI) 56%-99%; n = 4410), cough (61%, 95% CI 39%-81%; n = 3985), 
+muscle aches and/or fatigue (36%, 95% CI 18%-55%; n = 3778), dyspnea (26%, 95% CI 12%-41%; n = 3700), 
+headache in 12% (95% CI 4%-23%, n = 3598 patients), sore throat in 10% (95% CI 5%-17%, n = 1387) and 
+gastrointestinal symptoms in 9% (95% CI 3%-17%, n = 1744). 
+Laboratory findings were described in a lower number of patients and revealed lymphopenia (0.93 × 109/L, 95% CI 0.83-1.03 × 109/L, n = 464) 
+and abnormal C-reactive protein (33.72 mg/dL, 95% CI 21.54-45.91 mg/dL; n = 1637). 
+Radiological findings varied, but mostly described ground-glass opacities and consolidation. 
+Data on treatment options were limited. All-cause mortality was 0.3% (95% CI 0.0%-1.0%; n = 53,631). 
+Epidemiological studies showed that mortality was higher in males and elderly patients. 
+The majority of reported clinical symptoms and laboratory findings related to SARS-CoV-2 infection are non-specific. 
+Clinical suspicion, accompanied by a relevant epidemiological history, should be followed by early imaging and virological assay.
+
+Satisfactory outcome was observed in one mild case and one severe case of COVID-19 pneumonia after 
+the use of the online/offline multidisciplinary quarantine observation form, online monitoring, and 
+classified diagnosis and treatment, as well as strict compliance with quarantine measures. Conditions of 
+both patients were improved, and cross-infection and disease onset clustering were not observed. The 
+multidisciplinary self-quarantine model provides early judgment, identification, and treatment of 
+disease, improves compliance with early rehabilitation, increases confidence in recovery, and enhances 
+self-management capabilities. This model is applicable to the current novel coronavirus pneumonia 
+epidemic and can actively promote the management of suspected or confirmed mild cases, monitoring 
+of critical cases, and self-management of discharged patients. The application of this new management 
+model is worthy of being promoted in our specialized treatment facilities and in countries with severe 
+epidemics.
+
+We propose a mathematical model to investigate the current outbreak of the coronavirus disease 
+2019 (COVID-19) in Wuhan, China. Our model describes the multiple transmission pathways in the 
+infection dynamics, and emphasizes the role of the environmental reservoir in the transmission and 
+spread of this disease. Our model also employs non-constant transmission rates which change with 
+the epidemiological status and environmental conditions and which reflect the impact of the on-
+going disease control measures. We conduct a detailed analysis of this model, and demonstrate its 
+application using publicly reported data. Among other findings, our analytical and numerical results 
+indicate that the coronavirus infection would remain endemic, which necessitates long-term disease 
+prevention and intervention programs.
+
+In December 2019, the outbreak of the novel coronavirus disease (COVID-19) in China spread 
+worldwide, becoming an emergency of major international concern. SARS-CoV-2 infection causes 
+clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus. Human-to-human 
+transmission via droplets, contaminated hands or surfaces has been described, with 
+incubation times of 2-14 days. Early diagnosis, quarantine, and supportive treatments are essential to 
+cure patients. This paper reviews the literature on all available information about the epidemiology, 
+diagnosis, isolation and treatments of COVID-19. Treatments, including antiviral agents, chloroquine 
+and hydroxychloroquine, corticosteroids, antibodies, convalescent plasma transfusion and vaccines, 
+are discussed in this article. In addition, registered trials investigating treatment options for COVID-19 
+infection are listed.
+
+In response to the outbreak of COVID-19, we set up a team to carry out sampling in the community. 
+This enabled individuals to remain in self-isolation in their own homes and to prevent healthcare 
+settings and services from being overwhelmed by admissions for sampling of suspected cases. There 
+is evidence that this is a cost effective, safe and necessary service to complement COVID-19 testing in 
+hospitals.
+
+Every month, DTB scans sources of information on treatments, disease management and other 
+healthcare topics for key items to bring to our readers' attention and help them keep up to date. To 
+do this, we produce succinct, contextualised summaries of the information concerned.
+
+Since December 2019, a viral pneumonia, named coronavirus disease 2019 (COVID-19), from Wuhan, 
+China, has swept the world. Although the case fatality rate is not high, the number of people infected 
+is large and there is still a large number of patients dying. With the collation and publication of more 
+and more clinical data, a large number of data suggest that there are mild or severe cytokine storms 
+in severe patients, which is an important cause of death. Therefore, treatment of the cytokine storm 
+has become an important part of rescuing severe COVID-19 patients. Interleukin-6 (IL-6) plays an 
+important role in cytokine release syndrome. If it is possible to block the signal transduction pathway 
+of IL-6, it is expected to become a new method for the treatment of severe COVID-19 patients. 
+Tocilizumab is an IL-6 receptor (IL-6R) blocker that can effectively block the IL-6 signal transduction 
+pathway and thus is likely to become an effective drug for patients with severe COVID-19.
+
+COVID-19 case fatalities surged during the month of March 2020 in Italy, reaching over 10,000 by 28 March 2020. 
+This number exceeds the number of fatalities in China (3,301) recorded from January to March, 
+even though the number of diagnosed cases was similar (85,000 Italy vs. 80,000 China). Case 
+Fatality Rates (CFR) could be somewhat unreliable because the estimation of total case numbers is 
+limited by several factors, including insufficient testing and limitations in test kits and materials, such 
+as NP swabs and PPE for testers. Sero prevalence of SARS-CoV-2 antibodies may help in more 
+accurate estimations of the total number of cases. Nevertheless, the disparity in the 
+differences in the total number of fatalities between Italy and China suggests investigation into several factors, such as 
+demographics, sociological interactions, availability of medical equipment (ICU beds and PPE), 
+variants in immune proteins (e.g., HLA, IFNs), past immunity to related CoVs, and mutations in SARS-CoV-2, 
+could impact survival of severe COVID-19 illness survival and the number of case fatalities.
+
+Emergency trauma radiology, although a relatively new subspecialty of radiology, plays a critical role 
+in both the diagnosis/triage of acutely ill patients, but even more important in providing leadership 
+and taking the lead in the preparedness of imaging departments in dealing with novel highly 
+infectious communicable diseases and mass casualties. This has become even more apparent in 
+dealing with COVID-19, the disease caused by the novel coronavirus SARS-CoV-2, first emerged in 
+late 2019. We review the symptoms, epidemiology, and testing for this disease. We discuss 
+characteristic imaging findings of COVID-19 in relation to other modern coronavirus diseases 
+including SARS and MERS. We discuss roles that community radiology clinics, outpatient radiology 
+departments, and emergency radiology departments can play in the diagnosis of this disease. We 
+review practical methods to reduce spread of infections within radiology departments.
+
+The 2019 novel coronavirus disease (COVID-19) is running rampantly in China and is swiftly spreading 
+to other countries in the world, which causes a great concern on the global public health. The absence 
+of specific therapeutic treatment or effective vaccine against COVID-19 call for other avenues of the 
+prevention and control measures. Media reporting is thought to be effective to curb the spreading of 
+an emergency disease in the early stage. Cross-correlation analysis based on our collected data 
+demonstrated a strong correlation between media data and the infection case data. Thus we 
+proposed a deterministic dynamical model to examine the interaction of the disease progression and 
+the media reports and to investigate the effectiveness of media reporting on mitigating the spread of 
+COVID-19. The basic reproduction number was estimated as 5.3167 through parameterization of the 
+model with the number of cumulative confirmed cases, the number of cumulative deaths and the 
+daily number of media items. Sensitivity analysis suggested that, during the early phase of the COVID-19 
+outbreak, enhancing the response rate of the media reporting to the severity of COVID-19, 
+and enhancing the response rate of the public awareness to the media reports, both can bring forward the 
+peak time and reduce the peak size of the infection significantly. These findings suggested that 
+besides improving the medical levels, media coverage can be considered as an effective way to 
+mitigate the disease spreading during the initial stage of an outbreak.
+
+The outbreak of a novel coronavirus (COVID-19) generated an outbreak of public opinions in the 
+Chinese Sina-microblog. To help in designing effective communication strategies during a major 
+public health emergency, we propose a multiple-information susceptible-discussing-immune (M-SDI) 
+model in order to understand the patterns of key information propagation on social networks. We 
+develop the M-SDI model, based on the public discussion quantity and take into account of the 
+behavior that users may re-enter another related topic or Weibo after discussing one. Data fitting 
+using the real data of COVID-19 public opinion obtained from Chinese Sina-microblog can 
+parameterize the model to make accurate prediction of the public opinion trend until the next major 
+news item occurs. The reproduction ratio has fallen from 1.7769 and maintained around 0.97, which 
+reflects the peak of public opinion has passed but it will continue for a period of time.
+
+To rapidly assess possible community transmission in Noord-Brabant, the Netherlands, healthcare 
+workers (HCW) with mild respiratory complaints and without epidemiological link (contact with 
+confirmed case or visited areas with active circulation) were tested for severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2). Within 2 days, 1,097 HCW in nine hospitals were tested; 45 
+(4.1%) were positive. Of six hospitals with positive HCW, two accounted for 38 positive HCW. The 
+results informed local and national risk management.
+
+The renin-angiotensin system (RAS) plays a main role in regulating blood pressure and electrolyte and 
+liquid balance. Previous evidence suggests that RAS may represent an important target for the 
+treatment of lung pathologies, especially for acute respiratory distress syndrome and chronic fibrotic 
+disease. The scientific community has recently focused its attention on angiotensin-converting 
+enzyme (ACE) inhibitors and angiotensin receptor 1 (AT1R) inhibitors and their possible benefit/harms 
+for patients infected by Coronavirus disease (COVID-19) who experience pneumonia, but there are still 
+some doubts about the effects of these drugs in this setting.
+
+Adjusting for delay from confirmation to death, we estimated case and infection fatality ratios (CFR, 
+IFR) for coronavirus disease (COVID-19) on the Diamond Princess ship as 2.6% (95% confidence 
+interval (CI): 0.89-6.7) and 1.3% (95% CI: 0.38-3.6), respectively. Comparing deaths on board with 
+expected deaths based on naive CFR estimates from China, we estimated CFR and IFR in China to be 
+1.2% (95% CI: 0.3-2.7) and 0.6% (95% CI: 0.2-1.3), respectively.
+
+The World Health Organization has recognized the pandemic nature of the coronavirus disease 19 
+(COVID-19) outbreak. A large proportion of positive patients require hospitalization, while 5-6% of 
+them may need more aggressive therapies in intensive care. Most governments have recommended 
+social separation and severe measures of prevention of further spreading of the epidemic. Because 
+hemodialysis (HD) patients need to access hospital and dialysis center facilities 3 times a week, this 
+category of patients requires special attention. In this editorial, we tried to summarize the experience 
+of our centers that hopefully may contribute to help other centers and colleagues that are facing the 
+coming wave of the epidemic. Special algorithms for COVID-19 spreading in the dialysis population, 
+recommendations for isolation and preventive measures in positive HD patients, and finally directions 
+to manage logistics and personnel are reported. These recommendations should be considered 
+neither universal nor absolute. Instead, they require local adjustments based on geographic location, 
+cultural and social environments, and level of available resources.
+
+Currently, the outbreak of COVID-19 is rapidly spreading especially in Wuhan city, and threatens 14 
+million people in central China. In the present study we applied the Moran index, a strong statistical 
+tool, to the spatial panel to show that COVID-19 infection is spatially dependent and mainly spread 
+from Hubei Province in Central China to neighbouring areas. Logistic model was employed according 
+to the trend of available data, which shows the difference between Hubei Province and outside of it. 
+We also calculated the reproduction number R0 for the range of [2.23, 2.51] via SEIR model. The 
+measures to reduce or prevent the virus spread should be implemented, and we expect our data-
+driven modeling analysis providing some insights to identify and prepare for the future virus control.
+
+The outbreak of COVID-19 caused by SARS-CoV-2 in Wuhan and other cities of China is a growing 
+global concern. Delay in diagnosis and limited hospital resources lead to a rapid spread of COVID-19. 
+In this study, we investigate the effect of delay in diagnosis on the disease transmission with a new 
+formulated dynamic model. Sensitivity analyses and numerical simulations reveal that, improving the 
+proportion of timely diagnosis and shortening the waiting time for diagnosis can not eliminate 
+COVID-19 but can effectively decrease the basic reproduction number, significantly reduce the 
+transmission risk, and effectively prevent the endemic of COVID-19, e.g., shorten the peak time and 
+reduce the peak value of new confirmed cases and new infection, decrease the cumulative number of 
+confirmed cases and total infection. More rigorous prevention measures and better treatment of 
+patients are needed to control its further spread, e.g., increasing available hospital beds, shortening 
+the period from symptom onset to isolation of patients, quarantining and isolating the suspected 
+cases as well as all confirmed patients.
+
+Background: The psychological and behavioral responses during the early stage of Coronavirus 
+disease 2019 (COVID-19) in South Korea were investigated to guide the public as full and active 
+participants of public health emergency preparedness (PHEP), which is essential to improving 
+resilience and reducing the population's fundamental vulnerability. Methods: Data were collected 
+through an online survey four weeks after the Korea Centers for Disease Control and Prevention 
+(KCDC) confirmed the first case in South Korea; 973 subjects were included in the analysis. Results: 
+Respondents' perceived risk of COVID-19 infection; the majority of respondents reported that their 
+perceived chance of infection was "neither high nor low" (51.3%). The average perceived severity 
+score was higher than perceived susceptibility; 48.6 % reported that the severity would be "high," 
+while 19.9% reported "very high." Many respondents reported taking precautions, 67.8% reported 
+always practicing hand hygiene, and 63.2% reported always wearing a facial mask when outside. 
+Approximately 50% reported postponing or canceling social events, and 41.5% were avoiding 
+crowded places. Practicing precautionary behaviors associated strongly with perceived risk and 
+response efficacy of the behavior. Conclusions: Our study confirmed the significance of the 
+psychological responses, which associated with behavioral responses and significantly influenced the 
+public's level of public health emergency preparedness regarding the COVID-19 pandemic. This result 
+has consequences not only for implementing public health strategies for the pandemic but also for 
+understanding future emerging infectious diseases.
+
+Responding to an outbreak of a novel coronavirus [agent of coronavirus disease 2019 (COVID-19)] in 
+December 2019, China banned travel to and from Wuhan city on 23 January 2020 and implemented a 
+national emergency response. We investigated the spread and control of COVID-19 using a data set 
+that included case reports, human movement, and public health interventions. The Wuhan shutdown 
+was associated with the delayed arrival of COVID-19 in other cities by 2.91 days. Cities that 
+implemented control measures preemptively reported fewer cases on average (13.0) in the first week 
+of their outbreaks compared with cities that started control later (20.6). Suspending intracity public 
+transport, closing entertainment venues, and banning public gatherings were associated with 
+reductions in case incidence. The national emergency response appears to have delayed the growth 
+and limited the size of the COVID-19 epidemic in China, averting hundreds of thousands of cases by 
+19 February (day 50).
+
+The outbreak of 2019-novel coronavirus (2019-nCoV) infection poses a serious threat to global public 
+health. Vaccination is an effective way to prevent the epidemic of the virus. 2019-nCoV along with 
+severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome 
+coronavirus (MERS-CoV) belong to the same β-genus of coronavirus family. Basing on the previous 
+experience and the technical platform of developing SARS-CoV and MERS-CoV vaccines, scientists 
+from all over the world are working hard and quickly on the related fields. There are substantial 
+progress in these fields including characterizing the 2019-nCoV virus, identification of candidate 
+antigens and epitopes, establishment of animal models, characterizing the immune responses, and 
+the design of vaccines. The development of 2019-nCoV vaccines covers all types: inactivated virus 
+vaccine, recombinant protein vaccine, viral vector-based vaccine, mRNA vaccine, and DNA vaccine, et 
+al. As of March 2020, two 2019-nCoV vaccines have entered phase I clinical trials. One is named as 
+Ad5-nCoV developed by the Chinese Institute of Biotechnology of the Academy of Military Medical 
+Sciences and Tianjin Cansino Biotechnology Inc. Ad5-nCoV is based on the replication-defective 
+adenovirus type 5 as the vector to express 2019-nCoV spike protein. The another vaccine is mRNA
+-1273 developed by the National Institute of Allergy and Infectious Diseases and Moderna, Inc.. RNA
+-1273 is an mRNA vaccine expressing 2019-nCoV spike protein. Although the rapid development of 
+2019-nCoV vaccine, it still faces many unknown challenges, including the antigenic characteristics of 
+the 2019-nCoV, the influence of antigenic variation, the protective immune response of host, the 
+protection of the elderly population, and the downstream manufacturing process of the new vaccine. 
+The safety and efficacy of vaccines are the first priority for vaccine development and should be 
+carefully evaluated.
+
+Background and Purpose- Hyperacute assessment and management of patients with stroke, termed 
+code stroke, is a time-sensitive and high-stakes clinical scenario. In the context of the current 
+coronavirus disease 2019 (COVID-19) pandemic caused by the SARS-CoV-2 virus, the ability to deliver 
+timely and efficacious care must be balanced with the risk of infectious exposure to the clinical team. 
+Furthermore, rapid and effective stroke care remains paramount to achieve maximal functional 
+recovery for those needing admission and to triage care appropriately for those who may be 
+presenting with neurological symptoms but have an alternative diagnosis. Methods- Available 
+resources, COVID-19-specific infection prevention and control recommendations, and expert 
+consensus were used to identify clinical screening criteria for patients and provide the required 
+nuanced considerations for the healthcare team, thereby modifying the conventional code stroke 
+processes to achieve a protected designation. Results- A protected code stroke algorithm was 
+developed. Features specific to prenotification and clinical status of the patient were used to define 
+precode screening. These include primary infectious symptoms, clinical, and examination features. A 
+focused framework was then developed with regard to a protected code stroke. We outline the 
+specifics of personal protective equipment use and considerations thereof including aspects of crisis 
+resource management impacting team role designation and human performance factors during a 
+protected code stroke. Conclusions- We introduce the concept of a protected code stroke during a 
+pandemic, as in the case of COVID-19, and provide a framework for key considerations including 
+screening, personal protective equipment, and crisis resource management. These considerations and 
+suggested algorithms can be utilized and adapted for local practice.
+
+The recent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, previously known as 2019-
+nCoV) outbreak has engulfed an unprepared world amidst a festive season. The zoonotic SARS-CoV-
+2, believed to have originated from infected bats, is the seventh member of enveloped RNA 
+coronavirus. Specifically, the overall genome sequence of the SARS-CoV-2 is 96.2% identical to that of 
+bat coronavirus termed BatCoV RaTG13. Although the current mortality rate of 2% is significantly 
+lower than that of SARS (9.6%) and Middle East respiratory syndrome (MERS) (35%), SARS-CoV-2 is 
+highly contagious and transmissible from human to human with an incubation period of up to 24 
+days. Some statistical studies have shown that, on average, one infected patient may lead to a 
+subsequent 5.7 confirmed cases. Since the first reported case of coronavirus disease 2019 (COVID-19) 
+caused by the SARS-CoV-2 on December 1, 2019, in Wuhan, China, there has been a total of 60,412 
+confirmed cases with 1370 fatalities reported in 25 different countries as of February 13, 2020. 
+The outbreak has led to severe impacts on social health and the economy at various levels. This paper is a 
+review of the significant, continuous global effort that was made to respond to the outbreak in the 
+first 75 days. Although no vaccines have been discovered yet, a series of containment measures have 
+been implemented by various governments, especially in China, in the effort to prevent further 
+outbreak, whilst various medical treatment approaches have been used to successfully treat infected 
+patients. On the basis of current studies, it would appear that the combined antiviral treatment has 
+shown the highest success rate. This review aims to critically summarize the most recent advances in 
+understanding the coronavirus, as well as the strategies in prevention and treatment.
+
+Human coronaviruses SARS-CoV-2 appeared at the end of 2019 and led to a pandemic with high 
+morbidity and mortality. As there are currently no effective drugs targeting this virus, drug 
+repurposing represents a short-term strategy to treat millions of infected patients at low costs. 
+Hydroxychloroquine showed an antiviral effect in vitro. In vivo it showed efficacy, especially when 
+combined with azithromycin in a preliminary clinical trial. Here we demonstrate that the combination 
+of hydroxychloroquine and azithromycin has a synergistic effect in vitro on SARS-CoV-2 at 
+concentrations compatible with that obtained in human lung.
+
+COVID-19, the disease caused by the novel SARS-CoV-2, a betacoronavirus structurally similar to 
+SARS-CoV. Based on both structural and syndromic similarities with SARS-CoV, a hypothesis is formed 
+on SARS-CoV-2 potential to affect the host's metabolism as part of its lifecycle. This hypothesis is 
+evaluated by (a) exploratory analysis of SARS-CoV/human transcriptomic interaction data and gene 
+set enrichment analysis (b) a confirmatory, focused review of the literature based on the findings by 
+(a). A STRING Viruses (available search for human - SARS-CoV (NCBI taxonomy Id: 9606 vs. NCBI 
+taxonomy Id: 694009) genomic interactions reveals ten human proteins, interacting with SARS-CoV: 
+SGTA, FGL2, SPECC1, STAT3, PHB, BCL2L1, PPP1CA, CAV1, JUN, XPO1. Gene set enrichment analyses 
+(GSEA) with STRING on this network revealed their role as a putative protein - protein interaction 
+network (PPI; Enrichment p-value = 0.0296) mediating, viral parasitism, interleukin as well as insulin 
+signaling, diabetes and triglyceride catabolism. In the literature, SARS-CoV has been known to cause 
+de novo diabetes by ACE2-dependent uptake on pancreatic isle cells, and furthermore dysregulate 
+lipid autophagy in favor of the viral lifecycle. Conversely, currently there are only non-causative, 
+observational evidence of worse outcomes for COVID-19 patients with comorbid diabetes or 
+hyperglycemia. No study has reported on the lipid profiles of COVID-19 patients; however, lipid-
+targeting molecules have been proposed as agents against SARS-CoV-2. Future studies, reporting on 
+lipid and glucose metabolism of COVID-19 patients could help elucidate the disease's seculae and aid 
+drug design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
